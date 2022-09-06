@@ -2,7 +2,7 @@
 Hi!👋 
 I'm a frontend developer passionate about React and your stack its ecosystem.
 
-My objetive is to develop products that provide innovative solutions satisfying the needs of those involved, working in team and offering my passion and enthusiasm for what I do.
+My goal is to develop products that provide innovative solutions satisfying the needs of those involved, working in team and offering my passion and enthusiasm for what I do.
 
 I have carried out projects, like my own design of Ecommerce of Vans products and also an Online real estate agency.
 I have also made small web app such as a To do List, a calculator, a notes app, among others.
