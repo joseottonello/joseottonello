@@ -1,4 +1,4 @@
-## Frontend Dev
+## React Dev
 Hi!👋 
 I'm a frontend developer passionate about React and your stack its ecosystem.
 
