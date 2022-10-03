@@ -1,4 +1,4 @@
-## React & Next Developer 🚀
+## Frontend Developer 🚀
 Hi!👋 
 I'm a frontend developer mainly working with the React stack, passionate about Next.js and its ecosystem.
 I invite you to visit my repositories so that you can see my work.
