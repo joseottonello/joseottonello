@@ -9,7 +9,7 @@ I have also made small web app such as a To do List, calculator and a notes app,
 
 I invite you to visit my repositories so that you can see my work.
 
-<img src="https://img.icons8.com/ios-glyphs/32/000000/react.png"/><img src="https://img.icons8.com/fluency-systems-regular/30/000000/nextjs.png"/>
+<img src="https://img.icons8.com/ios-glyphs/30/000000/react.png"/><img src="https://img.icons8.com/fluency-systems-regular/30/000000/nextjs.png"/>
 
 
 
