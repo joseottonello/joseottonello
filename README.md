@@ -1,9 +1,10 @@
-## Frontend Developer 🚀
+## Development of computer applications 🚀
 Hi!👋 
-I'm a frontend developer mainly working with the React stack, passionate about Next.js and its ecosystem.
-I invite you to visit my repositories so that you can see my work.
+I'm a student of the University Technician of Computer Application Development at the National University of the Center of the Province of Buenos Aires (UNICEN), city of Tandil, Province of Buenos Aires, Argentina.
 
-<img src="https://img.icons8.com/ios/40/000000/react-native--v1.png"/><img src="https://img.icons8.com/fluency-systems-regular/40/000000/nextjs.png"/>
+Although the orientation of the career which I'm doing is towards a more complete and general vision covering various programming languages, job profiles and different environments where I can develop, thanks to my knowledge acquired prior to enrolling in the career I find myself momentarily overturned towards the development of user interfaces. I work mainly with programming languages such as JavaScript and TypeScript with libraries and frameworks like a React.js and Next.js.
+
+I also have knowledge of other libraries and frameworks such as Styled Components, Material UI, Tailwind, Bootstrap and Sass for the styling of my projects and the use of Git for their versioning.
 
 
 
